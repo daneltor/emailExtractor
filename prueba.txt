@@ -1,0 +1,6 @@
+Hola aqui hay un correo de prueba: prueba1@hotmail.com, he aqui estamos presentando todos los correos disponibles
+prueba2@outlook.com soluciones prueba3@gmail.com
+para CORREOSCONMAYUSCULA@gmail.com. Este archivo es de prueba con correos no reales
+Simplemente es un correo de prueba prueba3@hotmail.com
+NO se agrega el correo repetido prueba3@hotmail.com
+prueba4@yahoo.com si prueba5@sociedad.com.pais
